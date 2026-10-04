@@ -1,4 +1,5 @@
 # OSRI Program Performance Analysis (2023–2025)
+Strategic funding analysis to drive capital toward high-performing research programs and eliminate underperforming initiatives.
 
 ## Overview
 This analysis was completed as part of my role as a Data & Digital Transformation Graduate Assistant at the Office of Student Research and Innovation (OSRI), California State University, San Bernardino (CSUSB).
@@ -44,7 +45,7 @@ This analysis provided data-backed recommendations to guide program funding, res
 ![OSR Power Bi Report 2025_page-0003](https://github.com/user-attachments/assets/1879d582-e23e-4b38-82a0-822057ebb07c)
 
 ## My Role
-As a Graduate Assistant in Data & Digital Transformation, I independently designed and delivered this analysis to inform OSRI’s 2025–2026 program planning.
+I independently designed and delivered this analysis to inform OSRI’s 2025–2026 program planning.
 The findings directly supported leadership discussions on which programs to continue, restructure, or sunset based on data-driven evidence.
 
 
